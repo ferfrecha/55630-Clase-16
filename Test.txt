@@ -3,3 +3,9 @@ Linea 2
 ------------------------------------------
 linea 3
 Linea 4
+
+git init .
+git add*
+git commit -m "Texto descripcion"
+git status
+git log --oneline
